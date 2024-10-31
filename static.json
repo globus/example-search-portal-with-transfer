@@ -11,7 +11,7 @@
         "title": "Search | Globus Search Portal"
       },
       "content": {
-        "headline": "Globus Search Portal"
+        "headline": "Example: Search with Globus Transfer"
       },
       "features": {
         "transfer": false
@@ -33,7 +33,7 @@
       },
       "globus": {
         "search": {
-          "index": "78b92aca-e361-4307-8f66-bc448f20e2c3",
+          "index": "fbd23dc9-546c-4ecf-857f-708e6e706fa0",
           "facets": [
             {
               "name": "Tags",
